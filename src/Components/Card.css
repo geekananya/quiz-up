@@ -1,0 +1,22 @@
+/* body{
+    width: 100%;
+    height: stretch;
+} */
+.gen{
+    width: 30%;
+    /* height: 100vh; */
+}
+.gen{
+    color: rgb(252, 219, 219);
+    /* margin-left: 25%; */
+    margin-top: 15vh; 
+    margin-bottom: auto;
+}
+
+.grad{
+    background: linear-gradient(to bottom, #c00eb1, #7355ce);
+}
+
+.shad-1{
+    box-shadow: 0px 0px 4px 4px #faf2f2;
+}

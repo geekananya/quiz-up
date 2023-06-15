@@ -1,0 +1,9 @@
+.opt{
+    max-width: 70%;
+}
+
+
+.opt:hover{
+    background-color: rgb(252, 219, 219);
+    color: #7355ce;
+}
